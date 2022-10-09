@@ -1,4 +1,4 @@
-### :memo: **SISTEMA DE Cadastros** :memo:
+### :memo: **SISTEMA DE CADASTROS DE PESSOAS** :memo:
 #### Nesse código simples tivemos a utilização de:
 
 * Vetores;
