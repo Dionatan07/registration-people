@@ -74,6 +74,7 @@ public class Program {
             System.out.print("Enter Option: ");
             option = key.nextInt();
             System.out.println();
+
         }
     }
 }
